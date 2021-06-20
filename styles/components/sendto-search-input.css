@@ -1,0 +1,15 @@
+.sendto-search-input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 375px;
+    height: 44px;
+}
+.sendto-search-input__background{
+    background: #F9F8F9;
+}
+.sendto-search-input__input{
+    border: none;
+    background: none;
+    font-size: 15px;
+}
