@@ -1,3 +1,5 @@
 @import '../utils/index.css';
 @import '../components/search-input.css';
 @import '../components/multi-search-input.css';
+@import '../components/arrow-search-input.css';
+@import '../components/sendto-search-input.css';
