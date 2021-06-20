@@ -1,0 +1,15 @@
+.arrow-search-input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.arrow-search-input__background{
+    width: 285px;
+    height: 36px;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 18px;
+}
+.arrow-search-input__input{
+    border: none;
+    background: none;
+}
