@@ -1,0 +1,23 @@
+.multi-search-input{
+    display: flex;
+    align-items: center;
+    width: 342px;
+    height: 36px;
+    justify-content: space-between;
+}
+.multi-search-input__img{
+    width: 20px;
+}
+.multi-search-input__input{
+    border: none;
+    background: none;
+    width: 135px;
+    height: 36px;
+    border-radius: 18px;
+    color: black;
+    background: #0000000D;
+    font-size: 17px;
+}
+.search-input__input::placeholder{
+    color: #999999;
+}
