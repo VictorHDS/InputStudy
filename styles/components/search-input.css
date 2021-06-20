@@ -1,0 +1,21 @@
+.search-input{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    height: 36px;
+    margin: 0 auto;
+}
+.search-input__background{
+    background: #0000000D;
+    border-radius: 10px;
+}
+.search-input__img{
+    width: 15px;
+}
+.search-input__input{
+    border: none;
+    background: none;
+    height: 22px;
+    color: black;
+    font-size: 17px;
+}
